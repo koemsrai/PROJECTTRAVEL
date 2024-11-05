@@ -35,7 +35,7 @@
 }
 /* ----------top destination style */
 .top-destination{
-    background-image:url(/img/map.jpg);
+    background-image:url(/image/map.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -86,7 +86,7 @@
 /* ---------------place style------------ */
 .place{
     /* height: 120vh; */
-    background-image: url(/img/bg-card.jpg);
+    background-image: url(/image/bg-card.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
